@@ -2,5 +2,4 @@
 
 set -euo pipefail
 
-rm -rf main || true
-rm -rf libshared.so || true
+rm -rf build || true
